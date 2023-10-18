@@ -4,7 +4,7 @@ This API allows to reserve a book.
 
 The API is available at `https://simple-books-api.glitch.me`
 
-## [Click here to see the report](https://books-api-report-sakib.netlify.app/)
+## [Click here to see the report](https://book-api-report.netlify.app/)
 
 ## Endpoints ##
 
